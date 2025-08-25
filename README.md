@@ -35,7 +35,8 @@ Instead of relying on static CSVs, the dashboard pulls **live JSON data** from t
 ---
 
 ## 📊 Dashboard Preview  
-<img width="1380" height="777" alt="image" src="https://github.com/user-attachments/assets/002ca1ba-3b19-41d9-8041-f2146b5cd189" />
+<img width="1267" height="704" alt="image" src="https://github.com/user-attachments/assets/0243d05c-b0b9-4c9f-a688-4bb5e6996fcb" />
+
  
   
 
