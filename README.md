@@ -44,4 +44,4 @@ Instead of relying on static CSVs, the dashboard pulls **live JSON data** from t
 ## 🚀 How to Use  
 1. Clone this repo  
    ```bash
-   git clone https://github.com/your-username/Weather_PowerBI.git
+   git clone https://github.com/kartikraichandani/Weather_PowerBI.git
